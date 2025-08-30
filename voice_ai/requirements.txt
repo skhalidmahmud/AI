@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+nltk
+transformers
+torch
+tensorflow
+openai
