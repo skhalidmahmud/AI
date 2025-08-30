@@ -7,3 +7,5 @@ tensorflow
 openai
 
 PyAudio
+
+keyboard
