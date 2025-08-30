@@ -5,3 +5,5 @@ transformers
 torch
 tensorflow
 openai
+
+PyAudio
